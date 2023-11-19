@@ -49,9 +49,31 @@ This assignment delves deep into intricate algorithmic challenges, exploring sol
 This assignment's primary objective was to deepen the understanding of advanced algorithmic techniques and showcase their vast applications in tackling multifaceted problems. By navigating through a wide array of challenges, hands-on problem-solving skills were sharpened, a deeper appreciation for algorithm intricacies was cultivated, and the bridge between theoretical constructs and practical solutions was strengthened.  
 Furthermore, this assignment aimed to stimulate out-of-the-box thinking, emphasizing the importance of a systematic approach and fostering the ability to design, visualize, and implement solutions for complex algorithmic challenges.
 
+## Assignment 4: Algorithm Question Design with Chatgpt  
+This assignment focuses on the exploration of NP-complete problems, particularly in the context of scheduling and resource allocation. It involves a detailed examination of algorithmic approaches to these problems, emphasizing the complexity and intricacies involved in finding optimal solutions.
+
+### Contents
+- Exploring NP-Completeness
+- NP-Completeness and Scheduling Challenges
+- Implementation with Pseudocode and Graph Visualization
+- Detailed Input, Output, and Constraints
+- Reflection on Problem-Solving Using AI Tools
+
+### Assignment Goal:
+The primary goal of this assignment was to gain a deeper understanding of NP-complete problems, particularly those related to scheduling and resource allocation. The assignment aimed to:  
+- Demonstrate the intricacies and challenges of proving NP-completeness.
+- Design and formulate complex algorithmic problems.
+- Develop and implement solutions using algorithmic concepts, Python coding, and graph theory.
+- Reflect on the process of problem-solving, particularly how AI tools like ChatGPT can aid in understanding, formulating, and solving complex algorithmic challenges.
+- Enhance problem-solving skills and deepen appreciation for the complexities and beauty of algorithm design.
+
 ### References
 - For creating graphs : https://www.desmos.com/calculator
 - For understanding and creating problems : https://www.inf.ufpr.br/andre/textos-CI1238-INFO7056/Algorithm%20Design%20-%20Jon%20Kleinberg%2C%20%C3%89va%20Tardos.pdf
 https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V
+- Cormen, T.H., Leiserson, C.E., Rivest, R.L., & Stein, C. (2009). Introduction to Algorithms (3rd ed.). The MIT Press.
+- Papadimitriou, C.H., & Steiglitz, K. (1982). Combinatorial Optimization: Algorithms and Complexity. Dover Publications.
+- NetworkX Documentation: [NetworkX 2.5 Documentation](https://networkx.org/documentation/stable/)
+- Python Documentation: [Python 3.9.2 Documentation](https://docs.python.org/3/)
 - For flowcharts : draw.io
 - ChatGPT
